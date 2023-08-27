@@ -8,3 +8,4 @@
 7. make migrations(if we have the project already) --> python manage.py makemigrations
 8. start migration of Django --> python manage.py migrate
 9. creation of super user --> python manage.py createsuperuser
+10. pip freeze > requirements.txt
